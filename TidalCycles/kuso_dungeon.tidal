@@ -1,0 +1,5 @@
+d1 $ s "bd:3 bd:3" # gain 1.5 # vowel "<a o e e>"
+d2 $ s "<[bd] [bd sn:3] [bd] [sn:3 sn sn:3]> <[sid:2*4]>"
+d3 $ s "[hh*16] [hh*6]"#vowel "a o e"
+d4 $ vowel "a ~ i ~" # s "flick" # gain 0.7 #speed "0.5 2" #note "<3 4 1 8>"
+d5 $ s "bass*4" # note "<2*2 4 3>"
